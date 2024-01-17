@@ -1,3 +1,9 @@
+---
+title: Software List
+layout: template
+filename: Software
+--- 
+
 **[< Go back to Main](https://remixguide.github.io/)**
 
 # Software List
