@@ -1,7 +1,7 @@
 ---
-title: Software List
-layout: template
-filename: Software
+layout: page
+title: "Software List"
+permalink: /URL-PATH
 --- 
 
 **[< Go back to Main](https://remixguide.github.io/)**
