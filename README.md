@@ -1,3 +1,10 @@
+---
+title: Remix Guide Main
+layout: template
+filename: README.md
+--- 
+
+
 ### An RTX Remix asset guide for dummies  
 Want to see something added or discussed in this document? Poke @Traggey or @Runestorm on the [RTX Remix Showcase](https://discord.gg/rtxremix) discord.
 
