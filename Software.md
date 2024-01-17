@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Software List"
-permalink: /URL-PATH
+permalink: /software
 --- 
 
 **[< Go back to Main](https://remixguide.github.io/)**
