@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Software List"
 permalink: /software
 --- 
